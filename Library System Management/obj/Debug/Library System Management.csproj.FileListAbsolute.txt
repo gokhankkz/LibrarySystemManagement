@@ -1,0 +1,11 @@
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\bin\Debug\Library System Management.exe.config
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\bin\Debug\Library System Management.exe
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\bin\Debug\Library System Management.pdb
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library System Management.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library_System_Management.Form1.resources
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library_System_Management.Properties.Resources.resources
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library System Management.csproj.GenerateResource.Cache
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library System Management.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library System Management.exe
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library System Management.pdb
+C:\Users\Gökhan\Desktop\Library System Management\Library System Management\obj\Debug\Library_System_Management.Forms.Form2.resources
